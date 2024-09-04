@@ -1,0 +1,179 @@
+Restaurant_id,Restaurant_name,STREET_NAME,APT_NO
+1001,Hangawi,Maple Street,101
+1002,Blue Ribbon Sushi Izakaya,Elm St,102
+1003,Cafe Habana,Maple St,103
+1004,Blue Ribbon Fried Chicken,Oak St,104
+1005,Dirty Bird to Go,Pine St,105
+1006,Tamarind TriBeCa,Cedar St,106
+1007,The Meatball Shop,Birch St,107
+1008,Barbounia,Willow St,108
+1009,Anjappar Chettinad,Poplar St,109
+1010,Bukhara Grill,Sycamore St,110
+1011,Big Wong Restaurant _¤¾Ñ¼,Ash St,111
+1012,Empanada Mama (closed),Beech St,112
+1013,Pylos,Chestnut St,113
+1014,Lucky's Famous Burgers,Cypress St,114
+1015,Shake Shack,Dogwood St,115
+1016,Sushi of Gari,Evergreen St,116
+1017,RedFarm Hudson,Hemlock St,117
+1018,Blue Ribbon Sushi,Hickory St,118
+1019,Five Guys Burgers and Fries,Locust St,119
+1020,Tortaria,Church St,120
+1021,Cafe Mogador,Red St,121
+1022,Otto Enoteca Pizzeria,Crosscut St,122
+1023,Vezzo Thin Crust Pizza,Rock St,123
+1024,Sushi of Gari 46,FunkSt,124
+1025,The Kati Roll Company,West St,125
+1026,Klong,Evergreen St,126
+1027,5 Napkin Burger,QuillSt,127
+1028,TAO,Hickory St,128
+1029,Parm,Loc St,129
+1030,Sushi Samba,Church St,130
+1031,Haru Gramercy Park,rim Street,131
+1032,Chipotle Mexican Grill $1.99 Delivery,Elf St,132
+1033,RedFarm Broadway,2nd St,133
+1034,Cafeteria,100th St,134
+1035,DuMont Burger,Mine St,135
+1036,Sarabeth's East,Sun St,136
+1037,Hill Country Fried Chicken,90 feet St,137
+1038,Bistango,Mill St,138
+1039,Jack's Wife Freda,Bang St,139
+1040,Mamoun's Falafel,Narrow St,140
+1041,Prosperity Dumpling,Lays St,141
+1042,Blue Ribbon Sushi Bar & Grill,Sand St,142
+1043,Westville Hudson,Chole St,143
+1044,Blue Ribbon Brooklyn,PineSt,144
+1045,Nobu Next Door,Meow St,145
+1046,Osteria Morini,France St,146
+1047,Haandi,Hill St,147
+1048,Benihana,Jail St,148
+1049,Han Dynasty,Lame St,149
+1050,Chote Nawab,Church St,150
+1051,Mission Cantina,Walnut St,151
+1052,Xi'an Famous Foods,Sycamore St,152
+1053,Rubirosa,Ash St,153
+1054,Joe's Shanghai _Àü£¾÷´,Beech St,154
+1055,Bareburger,Birch St,155
+1056,The Odeon,Cedar St,156
+1057,Pongsri Thai,Chestnut St,157
+1058,Yama Japanese Restaurant,Cypress St,158
+1059,Momoya,Dogwood St,159
+1060,Balthazar Boulangerie,Evergreen St,160
+1061,CafÌ© China,Hemlock St,161
+1062,Boqueria,rim Street,162
+1063,Song Thai Restaurant & Bar,Elf St,163
+1064,Five Leaves,2nd St,164
+1065,Pinto Nouveau Thai Bistro,100th St,165
+1066,Amy Ruth's,Mine St,166
+1067,Pepe Giallo,Sun St,167
+1068,indikitch,90 feet St,168
+1069,Yama 49,Mill St,169
+1070,Piccolo Angolo,Bang St,170
+1071,Pepe Rosso To Go,Narrow St,171
+1072,L'Express,rim Street,172
+1073,Amma,Elf St,173
+1074,Delicatessen,2nd St,174
+1075,S'MAC,100th St,175
+1076,Vanessa's Dumplings,Mine St,176
+1077,Bhatti Indian Grill,Sun St,177
+1078,Taro Sushi,90 feet St,178
+1079,Donburi-ya,Mill St,179
+1080,Hatsuhana,Bang St,180
+1081,Samurai Mama,Narrow St,181
+1082,Waverly Diner,Lays St,182
+1083,Tarallucci e Vino Restaurant,Sand St,183
+1084,P.J. Clarke's,Chole St,184
+1085,Lantern Thai Kitchen,PineSt,185
+1086,ilili Restaurant,Meow St,186
+1087,The Smile,France St,187
+1088,Vanessa's Dumpling House,Hill St,188
+1089,Bubby's ,Jail St,189
+1090,Woorijip,Lame St,190
+1091,Dirty Bird To Go (archived),Church St,191
+1092,Haveli Indian Restaurant,Mount Street,192
+1093,Dos Caminos,reaper St,193
+1094,da Umberto,molly St,194
+1095,Sushi of Gari Tribeca,Ohio St,195
+1096,Burger Joint,Phishy St,196
+1097,Room Service,Sennegal St,197
+1098,Sarabeth's Restaurant,Bringth St,198
+1099,Xe May Sandwich Shop,Willow St,199
+1100,Hibino,Poplar St,200
+1101,Mira Sushi,Sycamore St,201
+1102,Melt Shop,123 Main St,202
+1103,J. G. Melon,456 Elm St,203
+1104,Hummus Place,789 Oak St,204
+1105,Saravanaa Bhavan,234 Pine St,205
+1106,Friend of a Farmer,567 Maple St,206
+1107,The Loop,890 Cedar St,207
+1108,Balade,901 Birch St,208
+1109,Posto,123 Oak Ave,209
+1110,Terakawa Ramen,456 Elm Ave,210
+1111,Kambi Ramen House,789 Pine Ave,211
+1112,Wo Hop Restaurant,234 Maple Ave,212
+1113,Spice Thai,567 Cedar Ave,213
+1114,Dickson's Farmstand Meats,678 Birch Ave,214
+1115,UVA Wine Bar & Restaurant,789 Pine Ave,215
+1116,Serafina Fabulous Pizza,890 Cedar Ave,216
+1117,Gaia Italian Cafe,901 Birch Ave,217
+1118,Chola Eclectic Indian Cuisine,123 Maple Ave,218
+1119,Hot Kitchen,456 Cedar Ave,219
+1120,Junoon,789 Elm Ave,220
+1121,Ravagh Persian Grill,901 Oak Ave,221
+1122,Rohm Thai,234 Birch Ave,222
+1123,Dig Inn Seasonal Market,567 Elm Ave,223
+1124,Olea,789 Pine Ave,224
+1125,Cho Dang Gol,123 Oak Ave,225
+1126,El Parador Cafe,789 Cedar Ave,226
+1127,Socarrat Paella Bar,123 Maple Ave,227
+1128,Don's Bogam BBQ & Wine Bar,456 Cedar Ave,228
+1129,Alidoro,789 Elm Ave,229
+1130,Tony's Di Napoli,901 Pine Ave,230
+1131,Cipriani Le Specialita,234 Oak Ave,231
+1132,Sushi Choshi,567 Cedar Ave,232
+1133,Kanoyama,789 Maple Ave,233
+1134,V-Nam Cafe,901 Elm Ave,234
+1135,Zero Otto Nove,123 Pine Ave,235
+1136,Dos Caminos Soho,456 Oak Ave,236
+1137,Go! Go! Curry!,789 Maple Ave,237
+1138,La Follia,901 Elm Ave,238
+1139,Izakaya Ten,123 Pine Ave,239
+1140,12 Chairs,456 Oak Ave,240
+1141,Philippe Chow,123 Main St,241
+1142,The MasalaWala,456 Oak St,242
+1143,brgr,789 Pine St,243
+1144,Carmine's,101 Elm St,244
+1145,Asuka Sushi,202 Maple St,245
+1146,Aurora,303 Birch St,246
+1147,Sarabeth's,404 Cedar St,247
+1148,Crema Restaurante,505 Spruce St,248
+1149,Big Daddy's,606 Pine St,249
+1150,Moonstruck on Second,707 Oak St,250
+1151,Cafe de La Esquina,808 Maple St,251
+1152,Olive Garden,909 Elm St,252
+1153,67 Burger,1010 Birch St,253
+1154,Tres Carnes,1111 Spruce St,254
+1155,Schnipper's Quality Kitchen,1212 Cedar St,255
+1156,Nha Trang One,1313 Pine St,256
+1157,Market Table,1414 Oak St,257
+1158,Galli Restaurant,1515 Maple St,258
+1159,Hampton Chutney Co.,1616 Elm St,259
+1160,Byblos Restaurant,1717 Birch St,260
+1161,Grand Sichuan International,Main Street,261
+1162,Le Grainne Cafe,Elm Street,262
+1163,Il Bambino,Oak Avenue,263
+1164,Kori Restaurant and Bar,Maple Road,264
+1165,DespaÌ±a,Pine Street,265
+1166,Lamarca Pasta,Cedar Avenue,266
+1167,Lucky Strike,Walnut Lane,267
+1168,Paul & Jimmy's,Birch Street,268
+1169,Hunan Manor,Hickory Drive,269
+1170,Coppola's East,Sycamore Court,270
+1171,Emporio,Chestnut Avenue,271
+1172,Wa Jeal,Poplar Drive,272
+1173,Le Zie 2000 Trattoria,Willow Street,273
+1174,Rye House,Ash Lane,274
+1175,Hiroko's Place,Cedar Court,275
+1176,Frank Restaurant,Birch Road,276
+1177,Sarabeth's West,Maple Lane,277
+1178,wichcraft,Pine Court,278
